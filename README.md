@@ -1,7 +1,7 @@
 
 
 # This is Now Cast web application.
-![](welcome.PNG)
+![](welcomenow.PNG)
 
 ## Login
 ![](login_page.PNG)
